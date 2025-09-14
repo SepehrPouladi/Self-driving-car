@@ -42,15 +42,15 @@ The system is capable of:
 
 ### 1. Normal Driving (No Obstacle)  
 The car follows the lane at a steady speed.  
-![normal driving](6194bdaf-8821-4235-8849-a8fc8af602f9.png)  
+![normal driving](Picture1.png)  
 
 ### 2. Obstacle Detected  
 The YOLO model detects a "mane" object ahead. The car reduces speed and adjusts steering.  
-![obstacle detection](6194bdaf-8821-4235-8849-a8fc8af602f9.png)  
+![obstacle detection](Picture2.png)  
 
 ### 3. Avoidance Maneuver  
 The car steers around the obstacle and gradually returns to normal driving.  
-![avoidance](6194bdaf-8821-4235-8849-a8fc8af602f9.png)  
+![avoidance](Picture3.png)  
 
 ---
 
