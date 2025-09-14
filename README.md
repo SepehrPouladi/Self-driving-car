@@ -77,3 +77,12 @@ The car steers around the obstacle and gradually returns to normal driving.
 4. Visualizes results in a real-time OpenCV window.  
 
 ---
+
+
+## 📦 YOLO Model (best.zip)
+
+The folder includes the **trained YOLOv11 model** used for object detection.  
+Since the original ONNX file is larger than the upload limit, it has been compressed into a ZIP archive.  
+
+- **best.onnx** → The trained YOLOv11 model.  
+- **best.zip** → Compressed version of the ONNX file for easier storage and transfer.  
